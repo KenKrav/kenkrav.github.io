@@ -1,0 +1,29 @@
+.jumbotron {
+  border: 1px solid #eee;
+  padding: 25px;
+  /*margin: 25px 50px 25px 5px;*/
+  background:
+}
+
+#jumbotron-one {
+    background-image: url("photos/volcano.jpg");
+    background-size: cover;
+    background-attachment: fixed
+}
+
+
+.header{
+  padding: 0px 10px 0px 10px;
+  /*margin: 25px 50px 25px 5px;*/
+  }
+
+.footer{
+  text-align: right;
+  /*padding-top: 25px;*/
+  /*margin: 40px 0 20px;*/
+  border-top: 1px solid #eee;
+}
+
+.test{
+    color: black;
+}
